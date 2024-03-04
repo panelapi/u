@@ -3,13 +3,13 @@
 //检测非源站使用将立即打包数据库并添加后门
 window.EnvConfig = {
 
-  serverUrl: 'https://www.seeworld.cc',
+  serverUrl: 'https://www.forestnet.cc',
 
 
-  appName: '带你看世界',
+  appName: 'ForestNet',
 
 
-  appLogo: 'https://www.seeworld.cc/theme/tst/img/logo.svg',
+  appLogo: './img/logo.svg',
 
 
   iosUrl: 'https://apps.apple.com/ca/app/shadowrocket/id932747118',
