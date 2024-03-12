@@ -31,15 +31,15 @@ window.EnvConfig = {
   <div class="note">
     <p>Shadowrocket（小火箭）无法在中国大陆 <b>App Store</b> 下载，我们为阁下提供了用于下载该应用的 <b>Apple ID</b>，如阁下已经安装该应用可直接跳过本章节。</p>
     <!--access start-->
-<object data="https://forest.laogou.cx/p/50bc9f866b61bbe3dfe7d06f11f34c97" width="260" height="200"></object>
-<object data="https://forest.laogou.cx/p/d3575b719e5e7543726b79dd5a307baf" width="260" height="200"></object>
+<object data="https://forest.laogou.cx/p/50bc9f866b61bbe3dfe7d06f11f34c97" width="100%" height="200"></object>
+<object data="https://forest.laogou.cx/p/d3575b719e5e7543726b79dd5a307baf" width="100%" height="200"></object>
 </p>
     <!--access end-->
     <p>
       <b>
-        《如何仅登录 App Store》图文解释 供阁下参考 
+        <h4>《如何仅登录 App Store》图文解释 供阁下参考 <a href="./img/jc.png" target="_blank"><b style="color: #b40404;">《点击放大查看》</b></a></h4>
         <object data="./img/jc.png" width="100%" height="100%"></object>
-        <a href="./img/jc.png" target="_blank"><b style="color: #b40404;">《点击放大查看》</b></a>
+        
     </ul>
   `,
 
