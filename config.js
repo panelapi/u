@@ -3,7 +3,7 @@
 //检测非源站使用将立即打包数据库并添加后门
 window.EnvConfig = {
 
-  serverUrl: 'https://www.forestnet.cc',
+  serverUrl: 'https://api.forestnet.cc',
 
 
   appName: 'ForestNet',
