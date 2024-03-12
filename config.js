@@ -37,9 +37,9 @@ window.EnvConfig = {
     <!--access end-->
     <p>
       <b>
-        这里有一篇 图文解释 供阁下参考：<a href="https://jingyan.baidu.com/article/d45ad148eabcc128542b807a.html" target="_blank">《如何仅登录 App Store》</a> 
-        <object data="./img/jc.png" width="260" height="200"></object>
-
+        这里有一篇 图文解释 供阁下参考：<a href="./img/jc.png" target="_blank">
+        <b style="color: #b40404;">《如何仅登录 App Store》</b></a> 
+        
     </ul>
   `,
 
