@@ -43,15 +43,15 @@ window.EnvConfig = {
     </ul>
   `,
 
-  androidUrl: 'https://www.seeworld.cc/api/Seeworld_2024.apk',
-  androidVersion: '4.1.8',
-  androidName: 'Seeworld',
+  androidUrl: 'https://www.forestnet.cc/static/ForestNet2024.apk',
+  androidVersion: '1.2.3',
+  androidName: 'ForestNet',
 
-  macosUrl: 'theme_android',
+  macosUrl: '/',
   macosVersion: '4.1.9',
-  macosName: 'Seeworld',
+  macosName: 'ForestNet',
 
-  windowsUrl: 'https://www.seeworld.cc/api/SeeWorld-win-4.1.9.exe',
+  windowsUrl: 'https://www.forestnet.cc/static/ForestNet.exe',
   windowsVersion: '4.1.9',
-  windowsName: 'Seeworld'
+  windowsName: 'ForestNet',
 }
