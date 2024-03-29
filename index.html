@@ -98,5 +98,23 @@
 
 <script defer src="https://analytics.us.umami.is/script.js" data-website-id="96954753-7543-491b-ab48-3c7bfc9fd836"></script>
 
+<script>
+// 跳转提示
+if (is_weixn_qq()) {;
+window.location.href = 'https://c.pc.qq.com/middle.html?pfurl=你的网站';
+ 
+}
+// 判断QQUA的代码无需修改
+function is_weixn_qq(){
+var ua = navigator.userAgent.toLowerCase();
+if(ua.match(/MicroMessenger/i)=="micromessenger") {
+return "weixin";
+} else if (ua.match(/QQ/i) == "qq") {
+return "QQ";
+}
+return false;
+}
+</script>
+
   </body>
 </html>
